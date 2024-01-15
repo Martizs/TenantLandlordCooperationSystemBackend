@@ -1,9 +1,9 @@
 # Tenant Landlord Cooperation System - Backend
 
-This is the backend/web part of the Landlord Tenant Cooperation System for my bachelors degree final project in IT Engineering. 
-The main part i worked on is in the app/Http/Controllers/AndroidController.php . 
-This is where all the APIs/WebServices called by android - https://github.com/Martizs/TenantLandlordCooperationSystemAndroid, reside. 
-Also the urls that the AndroidApp uses to call these APIs/WebServices are in the routes/api.php file.
+1) This is the backend/web part of the Landlord Tenant Cooperation System for my bachelors degree final project in IT Engineering. 
+2) The main part i worked on is in the app/Http/Controllers/AndroidController.php . 
+3) This is where all the APIs/WebServices called by android - https://github.com/Martizs/TenantLandlordCooperationSystemAndroid, reside. 
+4) Also the urls that the AndroidApp uses to call these APIs/WebServices are in the routes/api.php file.
 
 
 
